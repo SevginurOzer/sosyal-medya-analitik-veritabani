@@ -1,4 +1,5 @@
 📊 Sosyal Medya Analitik Veritabanı
+
 Bu proje, sosyal medya yöneticilerinin içerik performanslarını veri odaklı takip etmeleri için tasarlanmıştır.
 
 🚀 Özellikler
